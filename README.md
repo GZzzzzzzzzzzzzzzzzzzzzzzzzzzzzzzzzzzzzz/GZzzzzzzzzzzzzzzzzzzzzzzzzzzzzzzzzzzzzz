@@ -23,7 +23,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-1F925F?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-1F429F?style=for-the-badge&logo=istio&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-37FA32?style=for-the-badge&logo=kafka&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-6742F1?style=for-the-badge&logo=kafka&logoColor=white)
 
 <h3 align="center"> 💻 Workspace Specs </h3>
 <p align="center">
